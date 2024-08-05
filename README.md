@@ -1,4 +1,4 @@
-* ### System Architecture
+* ### Architecture
 
 ![Architecture](https://drive.google.com/uc?id=1YUz1CEMxZg5YKJax9ORLdwi6tQ5HjY8A)
 
